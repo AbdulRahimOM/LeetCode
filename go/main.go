@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"leetCode/go/solutions"
+	"leetCode/go/solutions/medium"
 )
 
 func main() {
