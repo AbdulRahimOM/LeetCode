@@ -1,4 +1,4 @@
-package solutions
+package medium
 
 // 48. Rotate Image
 // Medium
@@ -20,14 +20,9 @@ package solutions
 // 1 <= n <= 20
 // -1000 <= matrix[i][j] <= 1000
 
-func Output48(matrix [][]int) {
-	rotate1(matrix)
-}
-func Output48b(matrix [][]int){
-	rotate2(matrix)
-}
+
 // 1st way
-func rotate1(matrix [][]int) {
+func Rotate1(matrix [][]int) {
 	len := int16(len(matrix[0]))
 	arr := make([]int, len*len)
 	var i, j int16
@@ -43,7 +38,7 @@ func rotate1(matrix [][]int) {
 	}
 }
 //2nd way
-func rotate2(matrix [][]int) {
+func Rotate2(matrix [][]int) {
 	len := int8(len(matrix[0]))
 	arr := make([]int, 4*len-4)
 	var i,outer,round int8

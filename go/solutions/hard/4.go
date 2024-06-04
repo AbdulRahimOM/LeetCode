@@ -1,14 +1,10 @@
-package solutions
+package hard
 
 import "sort"
 
-func Output4() any {
-	return findMedianSortedArrays([]int{1, 3}, []int{2})
-}
-
-func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
+func FindMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	nums := append(nums1, nums2...)
-	sort.Ints(nums)
+	sort.Ints(nums)	//why cant i use it? nobody said not to!!
 	l := len(nums)
 	if l%2 == 1 {
 		return float64(nums[(l-1)/2])

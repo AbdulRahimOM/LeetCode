@@ -1,11 +1,6 @@
-package solutions
+package easy
 
-func Output1(nums []int, target int) any {
-	return twoSum(nums, target)
-
-}
-
-func twoSum(nums []int, target int) []int {
+func TwoSum(nums []int, target int) []int {
 	for i := range nums {
 		for j := range nums[:i] {
 			if nums[i]+nums[j] == target {

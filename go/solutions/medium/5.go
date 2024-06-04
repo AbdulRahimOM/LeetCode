@@ -1,19 +1,11 @@
-package solutions
+package medium
 
-
-
-func Output5(s string) any {
-	return longestPalindrome(s)
-	}
-
-    
-
-func longestPalindrome(s string) string {
+func LongestPalindrome(s string) string {
     maxp:=1
     var start int=0
     length:=len(s)
     for i:=1;i<length;i++{
-        for j:=1;i-j>=0 &&i+j<length;j++{
+        for j:=1;i>=j &&i+j<length;j++{
             if s[i+j]==s[i-j]{
                 if 2*j+1>maxp{
                     maxp=2*j+1
@@ -36,4 +28,3 @@ func longestPalindrome(s string) string {
     }
     return s[start:start+maxp]
 }
-

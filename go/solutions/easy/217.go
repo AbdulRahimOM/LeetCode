@@ -1,4 +1,4 @@
-package solutions
+package easy
 
 import "sort"
 
@@ -22,12 +22,8 @@ import "sort"
 // 1 <= nums.length <= 105
 
 //containsDuplicate(nums []int) bool
-func Output217(nums []int) any {
-	return containsDuplicate(nums)
 
-}
-
-func containsDuplicate(nums []int) bool {
+func ContainsDuplicate(nums []int) bool {
 	sort.Ints(nums)
 
 	for i := len(nums) - 1; i > 0; i-- {
