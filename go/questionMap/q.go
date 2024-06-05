@@ -14,6 +14,7 @@ var (
 	Q217  = easy.ContainsDuplicate                                 //easy
 	Q344  = easy.ReverseString                                     //easy
 	Q409  = easy.LongestPalindrome                                 //easy
+	Q1002 = easy.CommonChars                                       //easy
 	Q3110 = easy.ScoreOfString                                     //easy
 	Q3168 = easy.MinimumChairs                                     //easy
 	Q3169 = medium.CountDays                                       //medium
