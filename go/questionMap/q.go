@@ -14,6 +14,7 @@ var (
 	Q217  = easy.ContainsDuplicate                                 //easy
 	Q344  = easy.ReverseString                                     //easy
 	Q409  = easy.LongestPalindrome                                 //easy
+	Q846  = medium.IsNStraightHand                                 //medium
 	Q1002 = easy.CommonChars                                       //easy
 	Q2486 = medium.AppendCharacters                                //medium
 	Q3110 = easy.ScoreOfString                                     //easy
