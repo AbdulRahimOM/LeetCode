@@ -22,4 +22,5 @@ var (
 	Q3168 = easy.MinimumChairs                                     //easy
 	Q3169 = medium.CountDays                                       //medium
 	Q3170 = medium.ClearStars                                      //medium
+	Q3175 = medium.FindWinningPlayer                               //medium
 )
