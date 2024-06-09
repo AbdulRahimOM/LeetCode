@@ -24,4 +24,5 @@ var (
 	Q3170 = medium.ClearStars                                      //medium
 	Q3174 = easy.ClearDigits                                       //easy
 	Q3175 = medium.FindWinningPlayer                               //medium
+	Q3180 = medium.MaxTotalReward                                  //medium
 )
