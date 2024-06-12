@@ -18,6 +18,7 @@ var (
 	Q648  = medium.ReplaceWords                                    //medium
 	Q846  = medium.IsNStraightHand                                 //medium
 	Q1002 = easy.CommonChars                                       //easy
+	Q1122 = easy.RelativeSortArray                                 //easy
 	Q2486 = medium.AppendCharacters                                //medium
 	Q3110 = easy.ScoreOfString                                     //easy
 	Q3168 = easy.MinimumChairs                                     //easy
