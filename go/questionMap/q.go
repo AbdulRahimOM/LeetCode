@@ -10,6 +10,7 @@ var (
 	Q1    = easy.TwoSum                                            //easy
 	Q4    = hard.FindMedianSortedArrays                            //hard
 	Q5    = medium.LongestPalindrome                               //medium
+	Q75   = medium.SortColors                                      //medium
 	Q48   = []func(matrix [][]int){medium.Rotate1, medium.Rotate2} //medium
 	Q217  = easy.ContainsDuplicate                                 //easy
 	Q344  = easy.ReverseString                                     //easy
