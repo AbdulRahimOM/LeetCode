@@ -17,6 +17,7 @@ var (
 	Q409  = easy.LongestPalindrome                                 //easy
 	Q648  = medium.ReplaceWords                                    //medium
 	Q846  = medium.IsNStraightHand                                 //medium
+	Q945  = medium.MinIncrementForUnique                           //medium
 	Q1002 = easy.CommonChars                                       //easy
 	Q1122 = easy.RelativeSortArray                                 //easy
 	Q2486 = medium.AppendCharacters                                //medium
