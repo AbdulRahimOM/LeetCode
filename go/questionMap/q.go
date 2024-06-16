@@ -31,4 +31,5 @@ var (
 	Q3178 = easy.NumberOfChild                                     //easy
 	Q3179 = medium.ValueAfterKSeconds                              //medium
 	Q3180 = medium.MaxTotalReward                                  //medium
+	Q3185 = medium.CountCompleteDayPairs_II                        //medium
 )
