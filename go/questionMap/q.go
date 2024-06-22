@@ -33,5 +33,6 @@ var (
 	Q3180 = medium.MaxTotalReward                                  //medium
 	Q3184 = easy.CountCompleteDayPairs_I                           //medium
 	Q3185 = medium.CountCompleteDayPairs_II                        //medium
+	Q3191 = medium.MinOperations_I                                 //medium
 	Q3192 = medium.MinOperations_II                                //medium
 )
