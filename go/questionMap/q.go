@@ -37,4 +37,5 @@ var (
 	Q3191 = medium.MinOperations_I                                 //. . . . medium
 	Q3192 = medium.MinOperations_II                                //. . . . medium
 	Q3194 = easy.MinimumAverage                                    // easy
+	Q3195 = medium.MinimumArea                                     //. . . . medium
 )
