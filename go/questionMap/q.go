@@ -21,6 +21,7 @@ var (
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
 	Q1002 = easy.CommonChars                                       // easy
 	Q1122 = easy.RelativeSortArray                                 // easy
+	Q1550 = easy.ThreeConsecutiveOdds                              // easy
 	Q2486 = medium.AppendCharacters                                //. . . . medium
 	Q3110 = easy.ScoreOfString                                     // easy
 	Q3168 = easy.MinimumChairs                                     // easy
