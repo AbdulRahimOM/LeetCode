@@ -16,6 +16,7 @@ var (
 	Q217  = easy.ContainsDuplicate                                 // easy
 	Q268  = easy.MissingNumber                                     //easy
 	Q344  = easy.ReverseString                                     // easy
+	Q350  = easy.Intersect                                         //easy
 	Q409  = easy.LongestPalindrome                                 // easy
 	Q648  = medium.ReplaceWords                                    //. . . . medium
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
