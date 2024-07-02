@@ -14,6 +14,7 @@ var (
 	Q75   = medium.SortColors                                      //. . . . medium
 	Q48   = []func(matrix [][]int){medium.Rotate1, medium.Rotate2} //. . . . medium
 	Q217  = easy.ContainsDuplicate                                 // easy
+	Q268  = easy.MissingNumber                                     //easy
 	Q344  = easy.ReverseString                                     // easy
 	Q409  = easy.LongestPalindrome                                 // easy
 	Q648  = medium.ReplaceWords                                    //. . . . medium
