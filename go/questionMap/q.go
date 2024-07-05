@@ -25,6 +25,7 @@ var (
 	Q1122 = easy.RelativeSortArray                                 // easy
 	Q1509 = medium.MinDifference                                   //. . . . medium
 	Q1550 = easy.ThreeConsecutiveOdds                              // easy
+	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
 	Q2181 = medium.MergeNodes                                      //. . . . medium
 	Q2486 = medium.AppendCharacters                                //. . . . medium
 	Q3110 = easy.ScoreOfString                                     // easy
