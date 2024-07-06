@@ -13,6 +13,7 @@ var (
 	Q32   = hard.LongestValidParentheses                           //. . . . . . . . . hard
 	Q75   = medium.SortColors                                      //. . . . medium
 	Q48   = []func(matrix [][]int){medium.Rotate1, medium.Rotate2} //. . . . medium
+	Q214  = hard.ShortestPalindrome                                //. . . . . . . . . hard
 	Q217  = easy.ContainsDuplicate                                 // easy
 	Q268  = easy.MissingNumber                                     // easy
 	Q344  = easy.ReverseString                                     // easy
