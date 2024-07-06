@@ -28,6 +28,7 @@ var (
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
 	Q2181 = medium.MergeNodes                                      //. . . . medium
 	Q2486 = medium.AppendCharacters                                //. . . . medium
+	Q2582 = easy.PassThePillow                                     // easy
 	Q3110 = easy.ScoreOfString                                     // easy
 	Q3168 = easy.MinimumChairs                                     // easy
 	Q3169 = medium.CountDays                                       //. . . . medium
