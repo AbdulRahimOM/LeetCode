@@ -25,6 +25,7 @@ var (
 	Q1002 = easy.CommonChars                                       // easy
 	Q1122 = easy.RelativeSortArray                                 // easy
 	Q1509 = medium.MinDifference                                   //. . . . medium
+	Q1518 = easy.NumWaterBottles                                   // easy
 	Q1550 = easy.ThreeConsecutiveOdds                              // easy
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
 	Q2181 = medium.MergeNodes                                      //. . . . medium
