@@ -27,6 +27,7 @@ var (
 	Q1509 = medium.MinDifference                                   //. . . . medium
 	Q1518 = easy.NumWaterBottles                                   // easy
 	Q1550 = easy.ThreeConsecutiveOdds                              // easy
+	Q1598 = easy.MinOperations                                     // easy
 	Q1701 = medium.AverageWaitingTime                              //. . . . medium
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
