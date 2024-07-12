@@ -11,6 +11,7 @@ var (
 	Q4    = hard.FindMedianSortedArrays                            //. . . . . . . . . hard
 	Q5    = medium.LongestPalindrome                               //. . . . medium
 	Q32   = hard.LongestValidParentheses                           //. . . . . . . . . hard
+	Q42   = hard.Trap                                              //. . . . . . . . . hard				Trapping Rain Water
 	Q75   = medium.SortColors                                      //. . . . medium
 	Q48   = []func(matrix [][]int){medium.Rotate1, medium.Rotate2} //. . . . medium
 	Q214  = hard.ShortestPalindrome                                //. . . . . . . . . hard
