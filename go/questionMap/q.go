@@ -21,6 +21,7 @@ var (
 	Q350  = easy.Intersect                                         // easy
 	Q409  = easy.LongestPalindrome                                 // easy
 	Q648  = medium.ReplaceWords                                    //. . . . medium
+	Q726  = hard.CountOfAtoms                                      //. . . . . . . . . hard				Number of Atoms
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
 	Q1002 = easy.CommonChars                                       // easy
