@@ -54,5 +54,6 @@ var (
 	Q3192 = medium.MinOperations_II                                //. . . . medium
 	Q3194 = easy.MinimumAverage                                    // easy
 	Q3195 = medium.MinimumArea                                     //. . . . medium
+	Q3196 = easy.GetSmallestString								   // easy								Lexicographically Smallest String After a Swap
 	Q3217 = medium.ModifiedList                                    //. . . . medium						Delete Nodes From Linked List Present in Array
 )
