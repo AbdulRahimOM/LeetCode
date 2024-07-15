@@ -36,6 +36,7 @@ var (
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
 	Q2181 = medium.MergeNodes                                      //. . . . medium
+	Q2196 = medium.CreateBinaryTree 							   //. . . . medium						Create Binary Tree From Descriptions
 	Q2486 = medium.AppendCharacters                                //. . . . medium
 	Q2582 = easy.PassThePillow                                     // easy
 	Q3110 = easy.ScoreOfString                                     // easy
