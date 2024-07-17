@@ -25,6 +25,7 @@ var (
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
 	Q1002 = easy.CommonChars                                       // easy
+	Q1110 = medium.DelNodes                                        //. . . . medium						Delete Nodes And Return Forest
 	Q1190 = medium.ReverseParentheses                              //. . . . medium
 	Q1122 = easy.RelativeSortArray                                 // easy
 	Q1509 = medium.MinDifference                                   //. . . . medium
