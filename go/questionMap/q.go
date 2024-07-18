@@ -30,6 +30,7 @@ var (
 	Q1122 = easy.RelativeSortArray                                 // easy
 	Q1509 = medium.MinDifference                                   //. . . . medium
 	Q1518 = easy.NumWaterBottles                                   // easy
+	Q1530 = medium.CountPairs                                      //. . . . medium						Number of Good Leaf Nodes Pairs
 	Q1550 = easy.ThreeConsecutiveOdds                              // easy
 	Q1598 = easy.MinOperations                                     // easy
 	Q1701 = medium.AverageWaitingTime                              //. . . . medium
