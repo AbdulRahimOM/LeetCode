@@ -41,6 +41,7 @@ var (
 	Q2181 = medium.MergeNodes                                      //. . . . medium
 	Q2196 = medium.CreateBinaryTree 							   //. . . . medium						Create Binary Tree From Descriptions
 	Q2486 = medium.AppendCharacters                                //. . . . medium
+	Q2544 = easy.AlternateDigitSum                                 // easy								Alternate Digit Sum
 	Q2582 = easy.PassThePillow                                     // easy
 	Q3110 = easy.ScoreOfString                                     // easy
 	Q3168 = easy.MinimumChairs                                     // easy
