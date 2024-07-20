@@ -34,6 +34,7 @@ var (
 	Q1530 = medium.CountPairs                                      //. . . . medium						Number of Good Leaf Nodes Pairs
 	Q1550 = easy.ThreeConsecutiveOdds                              // easy
 	Q1598 = easy.MinOperations                                     // easy
+	Q1605 = medium.RestoreMatrix                                   //. . . . medium						Find Valid Matrix Given Row and Column Sums
 	Q1701 = medium.AverageWaitingTime                              //. . . . medium
 	Q1717 = medium.MaximumGain                                     //. . . . medium
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
