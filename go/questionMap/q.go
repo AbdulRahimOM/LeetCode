@@ -39,6 +39,7 @@ var (
 	Q1717 = medium.MaximumGain                                     //. . . . medium
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
+	Q2096 = medium.GetDirections                                   //. . . . medium						Step-By-Step Directions From a Binary Tree Node to Another
 	Q2181 = medium.MergeNodes                                      //. . . . medium
 	Q2196 = medium.CreateBinaryTree 							   //. . . . medium						Create Binary Tree From Descriptions
 	Q2486 = medium.AppendCharacters                                //. . . . medium
