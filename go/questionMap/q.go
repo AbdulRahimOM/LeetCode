@@ -42,6 +42,7 @@ var (
 	Q2096 = medium.GetDirections                                   //. . . . medium						Step-By-Step Directions From a Binary Tree Node to Another
 	Q2181 = medium.MergeNodes                                      //. . . . medium
 	Q2196 = medium.CreateBinaryTree 							   //. . . . medium						Create Binary Tree From Descriptions
+	Q2418 = easy.SortPeople                                        // easy								Sort the People
 	Q2486 = medium.AppendCharacters                                //. . . . medium
 	Q2544 = easy.AlternateDigitSum                                 // easy								Alternate Digit Sum
 	Q2582 = easy.PassThePillow                                     // easy
