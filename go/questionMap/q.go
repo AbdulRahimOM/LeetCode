@@ -42,6 +42,7 @@ var (
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
 	Q2096 = medium.GetDirections                                   //. . . . medium						Step-By-Step Directions From a Binary Tree Node to Another
 	Q2181 = medium.MergeNodes                                      //. . . . medium
+	Q2191 = medium.SortJumbled									   //. . . . medium						Sort the Jumbled Numbers
 	Q2196 = medium.CreateBinaryTree 							   //. . . . medium						Create Binary Tree From Descriptions
 	Q2418 = easy.SortPeople                                        // easy								Sort the People
 	Q2486 = medium.AppendCharacters                                //. . . . medium
