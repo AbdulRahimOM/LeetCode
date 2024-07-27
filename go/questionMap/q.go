@@ -29,6 +29,7 @@ var (
 	Q1110 = medium.DelNodes                                        //. . . . medium						Delete Nodes And Return Forest
 	Q1190 = medium.ReverseParentheses                              //. . . . medium
 	Q1122 = easy.RelativeSortArray                                 // easy
+	Q1334 = medium.FindTheCity                                     //. . . . medium						Find the City With the Smallest Number of Neighbors at a Threshold Distance
 	Q1380 = easy.LuckyNumbers                                      // easy								Lucky Numbers in a Matrix
 	Q1509 = medium.MinDifference                                   //. . . . medium
 	Q1518 = easy.NumWaterBottles                                   // easy
