@@ -50,6 +50,7 @@ var (
 	Q2486 = medium.AppendCharacters                                //. . . . medium
 	Q2544 = easy.AlternateDigitSum                                 // easy								Alternate Digit Sum
 	Q2582 = easy.PassThePillow                                     // easy
+	Q2976 = medium.MinimumCost                                     //. . . . medium						Minimum Cost to Convert String I
 	Q3110 = easy.ScoreOfString                                     // easy
 	Q3168 = easy.MinimumChairs                                     // easy
 	Q3169 = medium.CountDays                                       //. . . . medium
