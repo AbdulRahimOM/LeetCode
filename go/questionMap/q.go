@@ -70,4 +70,5 @@ var (
 	Q3195 = medium.MinimumArea                                     //. . . . medium
 	Q3196 = easy.GetSmallestString								   // easy								Lexicographically Smallest String After a Swap
 	Q3217 = medium.ModifiedList                                    //. . . . medium						Delete Nodes From Linked List Present in Array
+	Q3232 = easy.CanAliceWin									   // easy								Find if Digit Game Can Be Won
 )
