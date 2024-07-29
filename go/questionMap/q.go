@@ -31,6 +31,7 @@ var (
 	Q1122 = easy.RelativeSortArray                                 // easy
 	Q1334 = medium.FindTheCity                                     //. . . . medium						Find the City With the Smallest Number of Neighbors at a Threshold Distance
 	Q1380 = easy.LuckyNumbers                                      // easy								Lucky Numbers in a Matrix
+	Q1395 = medium.NumTeams                                        //. . . . medium						Count Number of Teams
 	Q1509 = medium.MinDifference                                   //. . . . medium
 	Q1518 = easy.NumWaterBottles                                   // easy
 	Q1530 = medium.CountPairs                                      //. . . . medium						Number of Good Leaf Nodes Pairs
