@@ -39,6 +39,7 @@ var (
 	Q1598 = easy.MinOperations                                     // easy
 	Q1605 = medium.RestoreMatrix                                   //. . . . medium						Find Valid Matrix Given Row and Column Sums
 	Q1636 = easy.FrequencySort                                     // easy								Sort Array by Increasing Frequency
+	Q1653 = medium.MinimumDeletions							   	   //. . . . medium						Minimum Deletions to Make String Balanced
 	Q1701 = medium.AverageWaitingTime                              //. . . . medium
 	Q1717 = medium.MaximumGain                                     //. . . . medium
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
