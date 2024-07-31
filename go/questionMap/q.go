@@ -26,6 +26,7 @@ var (
 	Q912  = medium.SortArray									   //. . . . medium						Sort an Array
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
 	Q1002 = easy.CommonChars                                       // easy
+	Q1105 = medium.MinHeightShelves								   //. . . . medium						Filling Bookcase Shelves
 	Q1110 = medium.DelNodes                                        //. . . . medium						Delete Nodes And Return Forest
 	Q1190 = medium.ReverseParentheses                              //. . . . medium
 	Q1122 = easy.RelativeSortArray                                 // easy
