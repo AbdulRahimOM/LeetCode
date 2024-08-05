@@ -34,6 +34,7 @@ var (
 	Q1380 = easy.LuckyNumbers                                      // easy								Lucky Numbers in a Matrix
 	Q1395 = medium.NumTeams                                        //. . . . medium						Count Number of Teams
 	Q1460 = easy.CanBeEqual                                        // easy								Make Two Arrays Equal by Reversing Sub-arrays
+	Q1508 = medium.RangeSum                                        //. . . . medium						Range Sum of Sorted Subarray Sums
 	Q1509 = medium.MinDifference                                   //. . . . medium
 	Q1518 = easy.NumWaterBottles                                   // easy
 	Q1530 = medium.CountPairs                                      //. . . . medium						Number of Good Leaf Nodes Pairs
