@@ -47,6 +47,7 @@ var (
 	Q1717 = medium.MaximumGain                                     //. . . . medium
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
 	Q2045 = hard.SecondMinimum                                     //. . . . . . . . . hard				Second Minimum Time to Reach Destination
+	Q2055 = easy.KthDistinct                                       // easy								Kth Distinct String in an Array
 	Q2058 = medium.NodesBetweenCriticalPoints                      //. . . . medium
 	Q2096 = medium.GetDirections                                   //. . . . medium						Step-By-Step Directions From a Binary Tree Node to Another
 	Q2134 = medium.MinSwapsII                                      //. . . . medium					    Minimum Swaps to Group All 1's Together II
