@@ -60,6 +60,8 @@ var (
 	Q2582 = easy.PassThePillow                                     // easy
 	Q2678 = easy.CountSeniors                                      // easy							    Number of Senior Citizens
 	Q2976 = medium.MinimumCost                                     //. . . . medium						Minimum Cost to Convert String I
+	Q3014 = medium.MinimumPushes                                   //. . . . easy						Minimum Number of Pushes to Type Word I (Same as 3016)
+	Q3016 = medium.MinimumPushes                                   //. . . . medium						Minimum Number of Pushes to Type Word II (Same as 3014)
 	Q3110 = easy.ScoreOfString                                     // easy
 	Q3168 = easy.MinimumChairs                                     // easy
 	Q3169 = medium.CountDays                                       //. . . . medium
