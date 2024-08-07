@@ -17,6 +17,7 @@ var (
 	Q214  = hard.ShortestPalindrome                                //. . . . . . . . . hard
 	Q217  = easy.ContainsDuplicate                                 // easy
 	Q268  = easy.MissingNumber                                     // easy
+	Q273  = hard.NumberToWords									   //. . . . . . . . . hard				Integer to English Words
 	Q344  = easy.ReverseString                                     // easy
 	Q350  = easy.Intersect                                         // easy
 	Q409  = easy.LongestPalindrome                                 // easy
