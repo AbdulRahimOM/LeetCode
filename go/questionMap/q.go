@@ -13,11 +13,12 @@ var (
 	Q32   = hard.LongestValidParentheses                           //. . . . . . . . . hard
 	Q42   = hard.Trap                                              //. . . . . . . . . hard				Trapping Rain Water
 	Q75   = medium.SortColors                                      //. . . . medium
+	Q41   = hard.FirstMissingPositive                              //. . . . . . . . . hard				First Missing Positive
 	Q48   = []func(matrix [][]int){medium.Rotate1, medium.Rotate2} //. . . . medium
 	Q214  = hard.ShortestPalindrome                                //. . . . . . . . . hard
 	Q217  = easy.ContainsDuplicate                                 // easy
 	Q268  = easy.MissingNumber                                     // easy
-	Q273  = hard.NumberToWords									   //. . . . . . . . . hard				Integer to English Words
+	Q273  = hard.NumberToWords                                     //. . . . . . . . . hard				Integer to English Words
 	Q344  = easy.ReverseString                                     // easy
 	Q350  = easy.Intersect                                         // easy
 	Q409  = easy.LongestPalindrome                                 // easy
@@ -25,10 +26,10 @@ var (
 	Q726  = hard.CountOfAtoms                                      //. . . . . . . . . hard				Number of Atoms
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
 	Q885  = medium.SpiralMatrixIII                                 //. . . . medium						Spiral Matrix III
-	Q912  = medium.SortArray									   //. . . . medium						Sort an Array
+	Q912  = medium.SortArray                                       //. . . . medium						Sort an Array
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
 	Q1002 = easy.CommonChars                                       // easy
-	Q1105 = medium.MinHeightShelves								   //. . . . medium						Filling Bookcase Shelves
+	Q1105 = medium.MinHeightShelves                                //. . . . medium						Filling Bookcase Shelves
 	Q1110 = medium.DelNodes                                        //. . . . medium						Delete Nodes And Return Forest
 	Q1190 = medium.ReverseParentheses                              //. . . . medium
 	Q1122 = easy.RelativeSortArray                                 // easy
@@ -44,7 +45,7 @@ var (
 	Q1598 = easy.MinOperations                                     // easy
 	Q1605 = medium.RestoreMatrix                                   //. . . . medium						Find Valid Matrix Given Row and Column Sums
 	Q1636 = easy.FrequencySort                                     // easy								Sort Array by Increasing Frequency
-	Q1653 = medium.MinimumDeletions							   	   //. . . . medium						Minimum Deletions to Make String Balanced
+	Q1653 = medium.MinimumDeletions                                //. . . . medium						Minimum Deletions to Make String Balanced
 	Q1701 = medium.AverageWaitingTime                              //. . . . medium
 	Q1717 = medium.MaximumGain                                     //. . . . medium
 	Q1823 = medium.FindTheWinner                                   //. . . . medium
@@ -54,8 +55,8 @@ var (
 	Q2096 = medium.GetDirections                                   //. . . . medium						Step-By-Step Directions From a Binary Tree Node to Another
 	Q2134 = medium.MinSwapsII                                      //. . . . medium					    Minimum Swaps to Group All 1's Together II
 	Q2181 = medium.MergeNodes                                      //. . . . medium
-	Q2191 = medium.SortJumbled									   //. . . . medium						Sort the Jumbled Numbers
-	Q2196 = medium.CreateBinaryTree 							   //. . . . medium						Create Binary Tree From Descriptions
+	Q2191 = medium.SortJumbled                                     //. . . . medium						Sort the Jumbled Numbers
+	Q2196 = medium.CreateBinaryTree                                //. . . . medium						Create Binary Tree From Descriptions
 	Q2418 = easy.SortPeople                                        // easy								Sort the People
 	Q2486 = medium.AppendCharacters                                //. . . . medium
 	Q2544 = easy.AlternateDigitSum                                 // easy								Alternate Digit Sum
@@ -80,7 +81,7 @@ var (
 	Q3192 = medium.MinOperations_II                                //. . . . medium
 	Q3194 = easy.MinimumAverage                                    // easy
 	Q3195 = medium.MinimumArea                                     //. . . . medium
-	Q3196 = easy.GetSmallestString								   // easy								Lexicographically Smallest String After a Swap
+	Q3196 = easy.GetSmallestString                                 // easy								Lexicographically Smallest String After a Swap
 	Q3217 = medium.ModifiedList                                    //. . . . medium						Delete Nodes From Linked List Present in Array
-	Q3232 = easy.CanAliceWin									   // easy								Find if Digit Game Can Be Won
+	Q3232 = easy.CanAliceWin                                       // easy								Find if Digit Game Can Be Won
 )
