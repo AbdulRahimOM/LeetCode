@@ -24,6 +24,7 @@ var (
 	Q648  = medium.ReplaceWords                                    //. . . . medium
 	Q726  = hard.CountOfAtoms                                      //. . . . . . . . . hard				Number of Atoms
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
+	Q885  = medium.SpiralMatrixIII                                 //. . . . medium						Spiral Matrix III
 	Q912  = medium.SortArray									   //. . . . medium						Sort an Array
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
 	Q1002 = easy.CommonChars                                       // easy
