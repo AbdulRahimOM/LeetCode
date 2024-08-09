@@ -24,6 +24,7 @@ var (
 	Q409  = easy.LongestPalindrome                                 // easy
 	Q648  = medium.ReplaceWords                                    //. . . . medium
 	Q726  = hard.CountOfAtoms                                      //. . . . . . . . . hard				Number of Atoms
+	Q840  = medium.NumMagicSquaresInside                           //. . . . medium						Magic Squares In Grid
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
 	Q885  = medium.SpiralMatrixIII                                 //. . . . medium						Spiral Matrix III
 	Q912  = medium.SortArray                                       //. . . . medium						Sort an Array
