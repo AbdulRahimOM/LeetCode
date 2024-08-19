@@ -28,6 +28,7 @@ var (
 	Q350  = easy.Intersect                                         // easy
 	Q409  = easy.LongestPalindrome                                 // easy
 	Q648  = medium.ReplaceWords                                    //. . . . medium
+	Q650  = medium.MinSteps                                        //. . . . medium						2 Keys Keyboard
 	Q726  = hard.CountOfAtoms                                      //. . . . . . . . . hard				Number of Atoms
 	Q840  = medium.NumMagicSquaresInside                           //. . . . medium						Magic Squares In Grid
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
