@@ -11,6 +11,9 @@ var (
 	Q4    = hard.FindMedianSortedArrays                            //. . . . . . . . . hard
 	Q5    = medium.LongestPalindrome                               //. . . . medium
 	Q9    = easy.IsPalindrome                                      // easy								Palindrome Number
+	Q13   = easy.RomanToInt                                        // easy								Roman to Integer
+	Q14   = easy.LongestCommonPrefix                               // easy								Longest Common Prefix
+	Q20   = easy.IsValid                                           // easy								Valid Parentheses
 	Q30   = hard.FindSubstring                                     //. . . . . . . . . hard				Substring with Concatenation of All Words
 	Q32   = hard.LongestValidParentheses                           //. . . . . . . . . hard
 	Q41   = hard.FirstMissingPositive                              //. . . . . . . . . hard				First Missing Positive
@@ -18,8 +21,10 @@ var (
 	Q48   = []func(matrix [][]int){medium.Rotate1, medium.Rotate2} //. . . . medium
 	Q51   = hard.SolveNQueens                                      //. . . . . . . . . hard				N-Queens-I
 	Q52   = hard.TotalNQueens                                      //. . . . . . . . . hard				N-Queens-II
+	Q65   = hard.IsNumber                                          //. . . . . . . . . hard				Valid Number
 	Q69   = easy.MySqrt                                            // easy								Sqrt(x)
 	Q75   = medium.SortColors                                      //. . . . medium
+	Q136  = easy.SingleNumber                                      // easy								Single Number
 	Q214  = hard.ShortestPalindrome                                //. . . . . . . . . hard
 	Q217  = easy.ContainsDuplicate                                 // easy
 	Q268  = easy.MissingNumber                                     // easy
