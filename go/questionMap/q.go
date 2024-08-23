@@ -32,11 +32,15 @@ var (
 	Q344  = easy.ReverseString                                     // easy
 	Q350  = easy.Intersect                                         // easy
 	Q409  = easy.LongestPalindrome                                 // easy
+	Q414  = easy.ThirdMax                                          // easy								Third Maximum Number
+	Q476  = easy.FindComplement                                    // easy								Number Complement
+	Q592  = medium.FractionAddition                                //. . . . medium						Fraction Addition and Subtraction
 	Q648  = medium.ReplaceWords                                    //. . . . medium
 	Q650  = medium.MinSteps                                        //. . . . medium						2 Keys Keyboard
 	Q726  = hard.CountOfAtoms                                      //. . . . . . . . . hard				Number of Atoms
 	Q840  = medium.NumMagicSquaresInside                           //. . . . medium						Magic Squares In Grid
 	Q846  = medium.IsNStraightHand                                 //. . . . medium
+	Q860  = easy.LemonadeChange                                    // easy								Lemonade Change
 	Q885  = medium.SpiralMatrixIII                                 //. . . . medium						Spiral Matrix III
 	Q912  = medium.SortArray                                       //. . . . medium						Sort an Array
 	Q945  = medium.MinIncrementForUnique                           //. . . . medium
